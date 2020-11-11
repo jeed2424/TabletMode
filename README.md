@@ -5,7 +5,7 @@ App for 2-in-1 Hackintosh to enable Tablet Mode
 <br/>
 
 
-Download Instructions:
+Download Instructions: <br />
 1– Download KeyBoardCleanTool <br/>
 2– Place KCT in Downloads Folder <br />
 3– Run KCT and allow Accessibility permissions <br />
