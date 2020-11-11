@@ -6,11 +6,11 @@ App for 2-in-1 Hackintosh to enable Tablet Mode
 
 
 Download Instructions:
-1– Download KeyBoardCleanTool
-2– Place KCT in Downloads Folder
-3– Run KCT and allow Accessibility permissions
-4– Check "Start cleaning immediately [...]"
-4– Run TabletMode and grant Services permissions (it might do it automatically)
+1– Download KeyBoardCleanTool <br/>
+2– Place KCT in Downloads Folder <br />
+3– Run KCT and allow Accessibility permissions <br />
+4– Check "Start cleaning immediately [...]" <br />
+4– Run TabletMode and grant Services permissions (it might do it automatically) <br />
 
 <br />
 <br />
