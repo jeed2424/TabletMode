@@ -1,5 +1,9 @@
 # TabletMode
 App for 2-in-1 Hackintosh to enable Tablet Mode
+<br />
+<br />
+<br/>
+
 
 Download Instructions:
 1– Download KeyBoardCleanTool
@@ -8,7 +12,9 @@ Download Instructions:
 4– Check "Start cleaning immediately [...]"
 4– Run TabletMode and grant Services permissions (it might do it automatically)
 
-
+<br />
+<br />
+<br />
 
 
 
